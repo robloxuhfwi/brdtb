@@ -1,1 +1,1 @@
-print("you have been ratted")
+print("nah script not working for u kid")
